@@ -1,0 +1,6 @@
+@tudoAoi_HostAddress = http://localhost:5008
+
+GET {{tudoAoi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

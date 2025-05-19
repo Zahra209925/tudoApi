@@ -1,1 +1,3 @@
-# Todo API
+# Tudo API
+
+A simple Todo API project.

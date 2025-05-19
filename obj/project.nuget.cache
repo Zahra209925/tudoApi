@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eLL1n8TKCCA=",
+  "dgSpecHash": "8h+WgDyoUVo=",
   "success": true,
-  "projectFilePath": "/Users/s2401563/Desktop/tudoAoi/tudoAoi.csproj",
+  "projectFilePath": "/Users/s2401563/Desktop/tudoApi/TodoAPI.csproj",
   "expectedPackageFiles": [
     "/Users/s2401563/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "/Users/s2401563/.nuget/packages/microsoft.entityframeworkcore/9.0.5/microsoft.entityframeworkcore.9.0.5.nupkg.sha512",

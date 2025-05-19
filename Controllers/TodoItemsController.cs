@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using tudoAoi.Models;
+using TodoAPI.Models;
 
-namespace tudoAoi.Controllers
+namespace TodoAPI.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]

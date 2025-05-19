@@ -640,11 +640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/s2401563/Desktop/tudoAoi/tudoAoi.csproj",
-      "projectName": "tudoAoi",
-      "projectPath": "/Users/s2401563/Desktop/tudoAoi/tudoAoi.csproj",
+      "projectUniqueName": "/Users/s2401563/Desktop/tudoApi/TodoAPI.csproj",
+      "projectName": "TodoAPI",
+      "projectPath": "/Users/s2401563/Desktop/tudoApi/TodoAPI.csproj",
       "packagesPath": "/Users/s2401563/.nuget/packages/",
-      "outputPath": "/Users/s2401563/Desktop/tudoAoi/obj/",
+      "outputPath": "/Users/s2401563/Desktop/tudoApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/s2401563/.nuget/NuGet/NuGet.Config"

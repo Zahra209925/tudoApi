@@ -4,6 +4,8 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>TodoAPI</AssemblyName>
+    <RootNamespace>TodoAPI</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
